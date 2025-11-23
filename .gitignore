@@ -48,4 +48,4 @@ debug-tools/*.json
 # Sentry Config File
 .env.sentry-build-plugin
 data-dump
-debug-tools/extracted
+debug-tools/extractedworker-configuration.d.ts
